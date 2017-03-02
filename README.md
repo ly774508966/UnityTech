@@ -19,7 +19,7 @@
 
 * IOS，Android资源打包界面化
 
-![](https://raw.githubusercontent.com/pepsigit/Pictures/master/unity_tech/9_assetBundle.png)
+![](https://raw.githubusercontent.com/pepsigit/Pictures/master/unity_tech/10_introduce.png)
 </br>
 
 #### 3.1.2017 - v0.0.1
